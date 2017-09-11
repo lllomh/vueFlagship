@@ -1,0 +1,357 @@
+*{
+	margin:0;
+	padding:0;
+ }
+ img,a,li{
+	border: none;
+}	
+ 
+ #content
+ {
+	 width:100%;
+	 height:1100px;
+	 float:left;
+	 background-size:100%;
+	 background-image:url(../images/all_baby_background.jpg);
+	 
+}
+
+.header
+{
+	width:1308px;
+	height:117px;
+	margin-left:auto;
+	margin-right:auto;}
+	
+.header_bottom
+{
+	width:1308px;
+	height:579px;
+	float:left;}
+	
+	.header_guanggao
+	{
+		width:1308px;
+		height:90px;
+		float:left;
+		background-color:rgba(255,255,255,0.5)}
+		
+	.dingwei_tow
+	{
+		width:867px;
+		margin-left:auto;
+		margin-right:auto;}
+		
+	.dingwei_three
+	{
+		width:867px;
+		height:27px;
+		margin-left:auto;
+		margin-right:auto;
+		}
+	.dingwei_three ul
+	{
+		list-style:none;
+		float:left;} 
+		
+	.dingwei_three li
+	{
+		width:82px;
+		height:26px;
+		float:left;
+		margin-left:10px;
+		background-color:#ffb6c1;
+		text-align:center;
+		line-height:26px;
+		border-radius:5px;
+		cursor:pointer;}
+		.dingwei_three li a
+		{
+			text-decoration:none;
+			color:#5a0412;}
+		
+	.dingwei_three li:nth-of-type(1)
+	{
+		margin-left:0;}
+		
+ .logo
+ {
+	 width:208px;
+	 height:90px;
+	 float:left;
+	 margin-left:-3px;}
+	 
+	.header_top_gg
+	{
+		width:659px;
+		height:90px;
+		float:left;
+}
+	.header_top_gg ul
+	{
+		list-style:none;
+		float:left;}
+	.header_top_gg li
+	{
+		display:inline-block;
+		height:90px;
+		margin-left:39px;
+		float:left;
+		}
+	.header_top_gg li top_12_lianjie a
+	{
+		display:block;
+		width:144px;
+		height:89px;}	
+		
+		
+	.header_top_gg li:nth-of-type(1)
+	{
+		margin-left:90px;}
+	.header_top_gg li:nth-of-type(3)
+	{
+		margin-left:48px;}
+		
+		
+		
+		
+		
+		
+.bodyer
+{
+	width:880px;
+	height:700px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:60px;}
+
+
+
+
+
+.bodyer_top
+{
+	width:880px;
+	height:342px;
+	float:left;}
+
+.one_top
+{
+	width:210px;
+	height:248px;
+	float:left;}
+
+.one_bottom
+{
+	width:210px;
+	height:94px;
+	float:left;}
+	
+.tow_top
+{
+	width:210px;
+	height:248px;
+	float:left;
+	}
+	
+.tow_bottom
+{
+	width:210px;
+	height:94px;
+	float:left;}
+
+
+
+.three_top
+{
+	width:210px;
+	height:248px;
+	float:left;
+	}
+	
+
+.three_bottom
+{
+	width:210px;
+	height:94px;
+	float:left;
+	}
+	
+	
+	
+.four_top
+{
+	width:210px;
+	height:248px;
+	float:left;
+	}	
+	
+.four_bottom
+{
+	width:210px;
+	height:94px;
+	float:left;
+	}
+	
+	
+.five_top
+{
+	width:210px;
+	height:248px;
+	float:left;
+	}
+	
+.five_bottom
+{
+	width:210px;
+	height:94px;
+	float:left;
+	}
+	
+.six_top
+{
+	width:210px;
+	height:248px;
+	float:left;
+	}
+	
+.six_bottom
+{
+	width:210px;
+	height:94px;
+	float:left;
+	}
+	
+	
+	
+
+.64a5cd
+{
+	color:#64a5cd;}
+
+.c55031
+{
+	color:#c55031;}
+	
+
+
+
+	
+.one_bottom_bottom_tow a
+{
+	font-weight:100;}
+	
+	
+	
+	.one_bottom_bottom_tow_l 
+	{
+		width:90px;
+		height:12px;
+		float:left;
+		margin-left:8px;
+		margin-top:5px;}
+		
+	.one_bottom_bottom_tow_r
+	{
+		height:12px;
+		margin-top:5px;
+		float:left;}
+	.one_bottom_bottom_tow_l a
+	{
+		font-size:12px;
+	    text-decoration:none;
+		color:#ababab;
+		
+		}
+
+	.one_bottom_bottom_tow_r a
+	{
+		font-size:12px;
+    	text-decoration:none;
+		}
+
+
+
+
+
+
+	
+.bodyer_top li
+{
+	display:block;
+	list-style:none;
+	width:211px;
+	height:342px;
+	background-color:#fff;
+	float:left;
+	margin-left:12px;}
+
+.bodyer_top li:nth-of-type(1)
+{
+	margin:0px;}
+	
+	
+	.one_bottom_top a
+	{
+		text-decoration:none;
+		color:#ca1414;
+		margin-left:8px;
+		font-size:16px;
+		}
+	
+	
+.one_bottom_bottom a
+{
+	text-decoration:none;
+	color:#5c5c5c;
+	font-size:12px;
+	font-weight:100;	}
+	
+
+		
+		
+.one_bottom_bottom
+{
+	width:180px;
+	height:31px;
+	float:left;
+	margin-left:8px;}		
+		
+.one_bottom_bottom a:hover
+{
+	text-decoration:underline;}
+	
+.bf8a7e
+{
+	color:#bf8a7e;}
+.adadad
+{
+	color:#adadad;}
+	
+	
+	
+.bodyer_bottom
+{
+	width:880px;
+	height:343px;
+	float:left;
+	margin-top:12px;}	
+	
+
+	
+.bodyer_bottom li
+{
+	list-style:none;
+	display:block;
+	width:211px;
+	height:342px;
+	background-color:#fff;
+	float:left;
+	margin-left:12px;
+	}	
+	
+.bodyer_bottom li:nth-of-type(1)
+{
+	margin:0px;}
+	
+	

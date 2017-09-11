@@ -1,0 +1,194 @@
+*{
+	margin:0;
+	padding:0;}
+img,a,li{
+	border: none;
+}
+
+div,a{padding:0; margin:o;}
+	
+	
+	.content
+	{
+		width:100%;
+		height:6500px;
+		background-image:url(../images/all_baby_background.jpg)
+		}
+
+
+
+
+
+
+
+.header
+{
+	width:1308px;
+	height:117px;
+	margin-left:auto;
+	margin-right:auto;}
+	
+.header_bottom
+{
+	width:1308px;
+	height:579px;
+	float:left;}
+	
+	.header_guanggao
+	{
+		width:1308px;
+		height:90px;
+		float:left;
+		background-color:rgba(255,255,255,0.5)}
+		
+	.dingwei_tow
+	{
+		width:867px;
+		margin-left:auto;
+		margin-right:auto;}
+		
+	.dingwei_three
+	{
+		width:867px;
+		height:27px;
+		margin-left:auto;
+		margin-right:auto;
+		}
+	.dingwei_three ul
+	{
+		list-style:none;
+		float:left;} 
+		
+	.dingwei_three li
+	{
+		width:82px;
+		height:26px;
+		float:left;
+		margin-left:10px;
+		background-color:#ffb6c1;
+		text-align:center;
+		line-height:26px;
+		border-radius:5px;
+		cursor:pointer;}
+		.dingwei_three li a
+		{
+			text-decoration:none;
+			color:#5a0412;}
+		
+	.dingwei_three li:nth-of-type(1)
+	{
+		margin-left:0;}
+		
+ .logo
+ {
+	 width:208px;
+	 height:90px;
+	 float:left;
+	 margin-left:-3px;}
+	 
+	.header_top_gg
+	{
+		width:659px;
+		height:90px;
+		float:left;
+}
+	.header_top_gg ul
+	{
+		list-style:none;
+		float:left;}
+	.header_top_gg li
+	{
+		display:inline-block;
+		height:90px;
+		margin-left:39px;
+		float:left;
+		}
+		
+	.header_top_gg li top_12_lianjie a
+	{
+		display:block;
+		width:144px;
+		height:89px;}	
+		
+		
+		
+	.header_top_gg li:nth-of-type(1)
+	{
+		margin-left:90px;}
+	.header_top_gg li:nth-of-type(3)
+	{
+		margin-left:48px;}
+		
+		
+		
+		
+		
+		
+
+
+		
+.bodyer
+{
+	width:1308px;
+	height:6333px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#fff;
+	padding-top:50px;}		
+	
+	
+	
+	.bodyer_one
+	{
+		width:753px;
+		margin-left:auto;
+		margin-right:auto;}
+		.bodyer_tow
+	{
+		width:753px;
+		margin-left:auto;
+		margin-right:auto;}
+		.bodyer_three
+	{
+		width:753px;
+		margin-left:auto;
+		margin-right:auto;}
+		.bodyer_four
+	{
+		width:753px;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:-5px;}
+		.bodyer_five
+	{
+		width:753px;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:-5px;}
+		
+	.bodyer_six
+	{
+		width:753px;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:-5px;}
+	
+	.bodyer_seven
+	{
+		width:753px;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:-5px;}
+		
+	.bodyer_eight
+	{
+		width:753px;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:-5px;}
+	.bodyer_Ten
+	{
+		width:753px;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:-5px;}
