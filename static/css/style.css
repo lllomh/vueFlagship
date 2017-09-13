@@ -4,29 +4,29 @@
  }
 img,a,li{
 	border: none;
-}	
- 
- 
+}
+
+
  #content
  {
 	 width:100%;
 	 height:6374px;
 	 float:left;
-	 background-image:url(../images/content.jpg);
+	 background-image:url(/static/images/content.jpg);
 	 background-size:100%;
 	 position:relative;
-	 
+
 }
-	
-	
-	
-/********************************header**************************/	
+
+
+
+/********************************header**************************/
 #header{
 	width:1308px;
 	height:683px;
 	margin-left:auto;
 	margin-right:auto;
-	background-image:url(../images/banner.jpg);
+	background-image:url(/static/images/banner.jpg);
 	background-repeat:no-repeat;
 }
 
@@ -35,26 +35,26 @@ img,a,li{
 	height:117px;
 	float:left;
 }
-	
+
 .header_bottom
 {
 	width:1308px;
 	height:579px;
 	float:left;}
-	
+
 	.header_guanggao
 	{
 		width:1308px;
 		height:90px;
 		float:left;
 		background-color:rgba(255,255,255,0.5)}
-		
+
 	.dingwei_tow
 	{
 		width:867px;
 		margin-left:auto;
 		margin-right:auto;}
-		
+
 	.dingwei_three
 	{
 		width:867px;
@@ -62,16 +62,16 @@ img,a,li{
 		margin-left:auto;
 		margin-right:auto;
 		}
-		
+
 	.dingwei_three a
 	{
 		}
-		
+
 	.dingwei_three ul
 	{
 		list-style:none;
-		float:left;} 
-		
+		float:left;}
+
 	.dingwei_three li
 	{
 		width:82px;
@@ -87,18 +87,18 @@ img,a,li{
 		{
 			text-decoration:none;
 			color:#5a0412;}
-		
+
 	.dingwei_three li:nth-of-type(1)
 	{
 		margin-left:0;}
-		
+
  .logo
  {
 	 width:208px;
 	 height:90px;
 	 float:left;
 	 margin-left:-3px;}
-	 
+
 	.header_top_gg
 	{
 		width:659px;
@@ -121,7 +121,7 @@ img,a,li{
 		width:144px;
 		height:89px;
 		display:block;
-}		
+}
 
 
 	.header_top_gg li:nth-of-type(1)
@@ -130,22 +130,22 @@ img,a,li{
 	.header_top_gg li:nth-of-type(3)
 	{
 		margin-left:48px;}
-		
 
 
-/***********************************end*************************************/	
-	
-	
+
+/***********************************end*************************************/
+
+
 	#bodyer
 	{
 		width:1308px;
 		height:5650px;
 		margin-left:auto;
 		margin-right:auto;
-		background-image:url(../images/bj.jpg);
+		background-image:url(/static/images/bj.jpg);
 		background-repeat:no-repeat;
 		padding-top:39px;}
-		
+
 	.bodyer_youhuijuan
 	{
 		width:315px;
@@ -154,19 +154,19 @@ img,a,li{
 		margin-left:auto;
 		}
 
-		
+
 	.bodyer_one
 	{
 		width:693px;
 		height:842px;
 		margin-left:auto;
 		margin-right:auto;
-		background-image:url(../images/bodyer_one.png);
+		background-image:url(/static/images/bodyer_one.png);
 		background-repeat:no-repeat;
 		margin-top:100px
 		}
-		
-	
+
+
 	.bodyer_one_ul ul
 	{
 		list-style:none;}
@@ -175,11 +175,11 @@ img,a,li{
 		float:left;
 		margin-left:22px;
 		margin-top:15px;}
-		
+
 	.bodyer_one_ul li:nth-of-type(1)
 	{
 		margin-left:73px;}
-		
+
 	.bodyer_one_tow
 	{
 		width:548px;
@@ -187,10 +187,10 @@ img,a,li{
 		float:left;
 		margin-top:157px;
 		margin-left:73px;
-		
-	
+
+
 		}
-		
+
 	.bodyer_one_three
 	{
 		width:548px;
@@ -198,19 +198,19 @@ img,a,li{
 		float:left;
 		margin-left:73px;
 		margin-top:15px;
-		
+
 		}
-		
-/*******bodyer_tow*******/		
+
+/*******bodyer_tow*******/
 	.bodyer_tow
 	{
 		width:1308px;
 		height:657px;
 		float:left;
-		background-image:url(../images/bodyer_tow.png);
+		background-image:url(/static/images/bodyer_tow.png);
 		margin-top:169px;
 		background-repeat:no-repeat;		}
-		
+
 	.bodyer_tow_text
 	{
 		width:276px;
@@ -218,15 +218,15 @@ img,a,li{
 		margin-left:auto;
 		margin-right:auto;
 		}
-		
+
 	.bodyer_tow_text_top
 	{
 		width:280px;
 		height:31px;
 		float:left;
-		text-align:center;}	
-		
-			
+		text-align:center;}
+
+
 	.bodyer_tow_product
 	{
 		width:558px;
@@ -234,27 +234,27 @@ img,a,li{
 		margin-left:auto;
 		margin-right:auto;
 		margin-top:168px;}
-		
+
 	.bodyer_tow_product_left
 	{
 		width:322px;
 		height:288px;
 		float:left;}
-		
+
 	.bodyer_tow_product_right
 	{
 		width:233px;
 		height:288px;
 		float:left;}
-		
-	
+
+
 
 
 /**************************end********************************/
 
 
 
-/*******bodyer_three*******/	
+/*******bodyer_three*******/
 
 
 .bodyer_three
@@ -263,7 +263,7 @@ img,a,li{
 	height:671px;
 	float:left;
 	margin-top:100px;
-	background-image:url(../images/bodyer_three1.png);
+	background-image:url(/static/images/bodyer_three1.png);
 	background-repeat:no-repeat;
 	}
 
@@ -273,7 +273,7 @@ img,a,li{
 	margin-left:auto;
 	margin-right:auto;
 	margin-top:112px;}
-	
+
 .bodyer_three_product_left
 {
 	width:301px;
@@ -308,10 +308,10 @@ img,a,li{
 	height:718px;
 	float:left;
 	margin-top:90px;
-	background-image:url(../images/bodyer_four.png);
+	background-image:url(/static/images/bodyer_four.png);
 	background-repeat:no-repeat;}
-	
-	
+
+
 .bodyer_four_product
 {
 	width:587px;
@@ -320,21 +320,21 @@ img,a,li{
 	margin-left:auto;
 	margin-right:auto;
 	}
-	
+
 .bodyer_four_product_left
 {
 	width:328px;
 	height:263px;
 	float:left;
 	}
-	
+
 .bodyer_four_product_right{
 	width:230px;
 	height:367px;
 	float:left;}
-	
-	
-	
+
+
+
 
 
 
@@ -347,8 +347,8 @@ img,a,li{
 	height:795px;
 	float:left;
 	margin-top:90px;
-	background-image:url(../images/bodyer_five.png);}
-	
+	background-image:url(/static/images/bodyer_five.png);}
+
 .bodyer_five_text
 {
 	width:276px;
@@ -357,7 +357,7 @@ img,a,li{
 		margin-right:auto;}
 
 
-	
+
 .bodyer_five_product
 {
 	width:549px;
@@ -372,7 +372,7 @@ img,a,li{
 	height:344px;
 	float:left
 	}
-	
+
 
 .bodyer_five_product_right
 {
@@ -380,14 +380,14 @@ img,a,li{
 	height:344px;
 	float:left;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
 	.bodyer_Six
 	{
 		width:1308px;
@@ -395,18 +395,18 @@ img,a,li{
 		float:left;
 		margin-top:80px;
 		}
-		
+
 	.bodyer_Six_contnet
 	{
 		width:692px;
 		height:755px;
 		margin-left:auto;
 		margin-right:auto;
-		background-image:url(../images/six.png);
+		background-image:url(/static/images/six.png);
 		background-repeat:no-repeat;
 		position:relative;}
-	
-	
+
+
 	.bodyer_Six_contnet_left_top
 	{
 		width:443px;
@@ -414,14 +414,14 @@ img,a,li{
 		float:left;
 		position:absolute;
 		left:135px; top:133px;}
-		
+
 	.bodyer_Six_contnet_left_bottom
 	{
 		width:443px;
 		height:231px;
 		position:absolute;
 		top:278px; left:134px;}
-		
+
 	.bodyer_Six_contnet_left
 	{
 		width:229px;
@@ -432,10 +432,10 @@ img,a,li{
 		width:214px;
 		height:231px;
 		float:left;}
-		
-		
-	
-	
+
+
+
+
 	.bodyer_seven
 	{
 		width:1308px;
@@ -444,18 +444,18 @@ img,a,li{
 		margin-top:20px;
 		position:relative;
 		}
-		
+
 	.bodyer_seven_bj
 	{
 		width:688px;
 		height:400px;
 		margin-left:auto;
 		margin-right:auto;
-		background:url(../images/choujian_bj.jpg);
+		background:url(/static/images/choujian_bj.jpg);
 		border:#fddbe0 2px solid;
-		
+
 		}
-	
+
 	.bodyer_Luck_draw
 	{
 		width:400px;
@@ -477,10 +477,9 @@ img,a,li{
 		font-size:27px;
 		margin-top:19px;
 }
-	
+
 	.bodyer_seven_left p
 	{
 		color:#fff;
 		font-size:19px;
 		margin-top:6px;}
-	

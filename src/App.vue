@@ -1,21 +1,21 @@
 <!-- 展示模板 -->
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <hello></hello>
     <Header></Header>
+    <Home></Home>
   </div>
 </template>
 
 <script>
 // 导入组件
-import Hello from './components/Hello'
-import Header from './header/Header'
+// import './jq/jquery-1.8.3.min.js'
+// import Hello from './components/Hello'
+
+import Home from './home/Home'
 export default {
   name: 'app',
   components: {
-    Hello,
-    Header
+    Home
   }
 }
 </script>
@@ -27,6 +27,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+
 }
 </style>
