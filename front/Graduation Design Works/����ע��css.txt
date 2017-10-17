@@ -1,0 +1,58 @@
+
+<div class="nav_li_four_left">
+                           		<a href="#">×¢²á</a> 
+                            </div>
+                         	 <div class="nav_li_four_right">
+                       	  	   <a href="#">µÇÂ¼</a> 
+                            </div>
+
+
+
+
+
+
+
+.nav_li_four_left
+{
+	width:60px;
+	height:27px;
+	float:left;
+	border-right:1px #fff dashed;
+	text-align:center;
+	line-height:27px;}
+
+
+
+
+.nav_li_four_left:hover
+{
+	background-color:#fb7286;
+	transition:background-color 0.3s ease;}
+
+
+.nav_li_four_left:hover a{color:#ffff00;}
+
+
+
+
+
+
+
+.nav_li_four_right
+{
+	
+	width:59px;
+	height:27px;
+	float:left;
+	text-align:center;
+	line-height:27px
+	}
+
+.nav_li_four_right:hover
+{
+	background-color:#fb7286;
+	transition:background-color 0.3s ease;}
+
+
+
+.nav_li_four_right:hover a{color:#ffff00;}
