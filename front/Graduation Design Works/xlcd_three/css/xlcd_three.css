@@ -14,7 +14,8 @@
 	font-size: 14px;
 	font-family:"圆幼";
 	list-style:none;
-	font-weight:800
+	font-weight:800;
+	z-index:100;
 	}
 
 .header_daohanlan .nav{

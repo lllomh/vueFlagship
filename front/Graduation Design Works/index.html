@@ -14,6 +14,24 @@
 <meta name="renderer" content="webkit">
 <script src="Luck draw/js/jquery-1.8.3.min.js"></script>
 <script src="Luck draw/js/jquery.rotate.min.js"></script>
+<link rel="stylesheet" type="text/css" href="jiaodiantu/css/owl.carousel.css">
+<script src="jiaodiantu/js/jquery-1.8.3.min.js"></script>
+<script src="jiaodiantu/js/owl.carousel.js"></script>
+<script type="text/javascript">
+$(function(){
+	$('#owl-demo').owlCarousel({
+		items: 1,
+		navigation: true,
+		navigationText: ["上一个","下一个"],
+		autoPlay: true,
+		stopOnHover: true
+	}).hover(function(){
+		$('.owl-buttons').show();
+	}, function(){
+		$('.owl-buttons').hide();
+	});
+});
+</script>
 <style>
 .g-content {
 		width:400px;
@@ -161,7 +179,31 @@
                 </div>
             </div>
     	<div id="header">
-        
+        	<!-- Demo -->
+<div id="owl-demo" class="owl-carousel">
+	<a class="item" href="#" target="_blank"><img src="images/banner.jpg" alt="">
+    	<b></b><span>巴西训练内马尔受伤 吓坏队友</span>
+    </a>
+	<a class="item" href="#" target="_blank"><img src="images/banner.jpg" alt="">
+    	<b></b><span>巴西训练内马尔受伤 吓坏队友</span>
+    </a>
+	<a class="item" href="#" target="_blank"><img src="images/banner.jpg" alt="">
+    	<b></b><span>巴西训练内马尔受伤 吓坏队友</span>
+    </a>
+	<a class="item" href="#" target="_blank"><img src="images/banner.jpg" alt="">
+    	<b></b><span>巴西训练内马尔受伤 吓坏队友</span>
+    </a>
+	<a class="item" href="#" target="_blank"><img src="images/banner.jpg" alt="">
+    	<b></b><span>巴西训练内马尔受伤 吓坏队友</span>
+    </a>
+	<a class="item" href="#" target="_blank"><img src="images/banner.jpg" alt="">
+    	<b></b><span>巴西训练内马尔受伤 吓坏队友</span>
+    </a>
+	<a class="item" href="#" target="_blank"><img src="images/banner.jpg" alt="">
+    	<b></b><span>巴西训练内马尔受伤 吓坏队友</span>
+    </a>
+</div>
+<!-- Demo end -->
         </div>
         <div id="bodyer">
         	<div class="bodyer_youhuijuan">
